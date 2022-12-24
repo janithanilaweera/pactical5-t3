@@ -1,4 +1,3 @@
-// 
 const cardList = [
   {
     title: "Kitten 2",
